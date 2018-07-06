@@ -22,16 +22,16 @@ public class TestSuite extends BaseTest {
 
         clickOnElement(By.linkText("Register"));
         clickOnElement(By.id("gender-female"));
-        entertext(By.name("FirstName"),"DanaBen");
-        entertext(By.name("LastName"), "Patel");
+        enterText(By.name("FirstName"),"DanaBen");
+        enterText(By.name("LastName"), "Patel");
         selectFromDropDown("DateOfBirthDay", "5");
         selectFromDropDown("DateOfBirthMonth","July");
         selectFromDropDown("DateOfBirthYear", "2015");
-        entertext(By.id("Email"),generateEmail());
-        entertext(By.id("Company"),"Unik");
+        enterText(By.id("Email"),generateEmail());
+        enterText(By.id("Company"),"Unik");
         clickOnElement(By.name("Newsletter"));
-        entertext(By.id("Password"),"123456789");
-        entertext(By.id("ConfirmPassword"),"123456789");
+        enterText(By.id("Password"),"123456789");
+        enterText(By.id("ConfirmPassword"),"123456789");
 
 
         waitForElementToBeClickable(By.id("register-button"),2);

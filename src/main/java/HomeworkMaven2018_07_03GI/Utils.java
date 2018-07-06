@@ -9,10 +9,13 @@ import java.sql.Timestamp;
 import java.util.Calendar;
 
 public class Utils extends BasePage {
+    //click on element
     public static void clickOnElement(By by){
+
         driver.findElement(by).click();
     }
-    public static void entertext(By by, String text){
+    //enter text
+    public static void enterText(By by, String text){
         driver.findElement(by).sendKeys(text);
     }
 
@@ -46,4 +49,23 @@ public class Utils extends BasePage {
         WebDriverWait wait = new WebDriverWait(driver,time);
         wait.until(ExpectedConditions.visibilityOfElementLocated(by));
     }
+    //clear and enter text
+    public static void clearAndEnterText(By by, String text){
+        driver.findElement(by).clear();
+        driver.findElement(by).sendKeys(text);
+    }
+    //select from visible number
+    public static void selectFromListByNumber(By element, int number){
+        new Select(driver.findElement(element)).selectByVisibleText(String.valueOf(number));
+    }
+    //select from visible number
+    public static void selectFromByIndex(By element, int number){
+        new Select(driver.findElement(element)).deselectByIndex(number);
+    }
+    //select from value
+    public static void selectFromListByValue(By element, String text){
+        new Select(driver.findElement(element)).selectByValue(text);
+    }
+    //wait for element for given time in second
+
 }
