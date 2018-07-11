@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="1c41bb95-80a7-4896-a369-713d60dba24b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HomeworkMaven2018_07_03GI/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HomeworkMaven2018_07_03GI/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeworkMaven2018_07_03GI/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeworkMaven2018_07_03GI/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeworkMaven2018_07_03GI/TestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeworkMaven2018_07_03GI/TestSuite.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,17 +20,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="-187">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,8 +38,8 @@
       <file leaf-file-name="TestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            <state relative-caret-position="2397">
+              <caret line="141" column="93" lean-forward="true" selection-start-line="141" selection-start-column="93" selection-end-line="141" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,15 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
+      <file leaf-file-name="LoadProp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/LoadProp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="408">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserSetUp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BrowserSetUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +80,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-119">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -76,6 +111,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wait</find>
+    </findStrings>
     <dirStrings>
       <dir>C:\Users\Dana\Desktop\Software Testing\Proiectele Mele\HomeworkMaven2018_07_03AI\src\test\Resources</dir>
     </dirStrings>
@@ -87,8 +125,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BasePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/HomeworkMaven2018_07_03AI.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/Properties/TestDataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/LoadProp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BrowserSetUp.java" />
         <option value="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java" />
         <option value="$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java" />
@@ -96,8 +139,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="24" />
+    <option name="y" value="13" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -106,7 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,15 +221,22 @@
             </path>
             <path>
               <item name="HomeworkMaven2018_07_03AI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="HomeworkMaven2018_07_03AI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Properties" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuite">
+  <component name="RunManager" selected="TestNG.TestSuite.verifyUserCanBuyTwoProducts">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -249,64 +299,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestSuite.verifyCompareProducts" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HomeworkMaven2018_07_03AI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeworkMaven2018_07_03GI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="HomeworkMaven2018_07_03GI" />
-      <option name="MAIN_CLASS_NAME" value="HomeworkMaven2018_07_03GI.TestSuite" />
-      <option name="METHOD_NAME" value="verifyCompareProducts" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="TestSuite.verifyIfUserShouldBeAbleToClearTheProductList" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HomeworkMaven2018_07_03AI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeworkMaven2018_07_03GI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="HomeworkMaven2018_07_03GI" />
-      <option name="MAIN_CLASS_NAME" value="HomeworkMaven2018_07_03GI.TestSuite" />
-      <option name="METHOD_NAME" value="verifyIfUserShouldBeAbleToClearTheProductList" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkMaven2018_07_03AI" />
       <extension name="coverage">
@@ -336,7 +328,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestSuite.verifyUserCanShortAndDisplayProducts" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite.verifyUserCanBuyTwoProducts" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkMaven2018_07_03AI" />
       <extension name="coverage">
         <pattern>
@@ -349,7 +341,65 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="HomeworkMaven2018_07_03GI" />
       <option name="MAIN_CLASS_NAME" value="HomeworkMaven2018_07_03GI.TestSuite" />
-      <option name="METHOD_NAME" value="verifyUserCanShortAndDisplayProducts" />
+      <option name="METHOD_NAME" value="verifyUserCanBuyTwoProducts" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuite.verifyUserCanSortAndDisplayProducts" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkMaven2018_07_03AI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkMaven2018_07_03GI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="HomeworkMaven2018_07_03GI" />
+      <option name="MAIN_CLASS_NAME" value="HomeworkMaven2018_07_03GI.TestSuite" />
+      <option name="METHOD_NAME" value="verifyUserCanSortAndDisplayProducts" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuite.verifyUserShouldBeAbleToSendEmailToAFriend" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkMaven2018_07_03AI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkMaven2018_07_03GI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="HomeworkMaven2018_07_03GI" />
+      <option name="MAIN_CLASS_NAME" value="HomeworkMaven2018_07_03GI.TestSuite" />
+      <option name="METHOD_NAME" value="verifyUserShouldBeAbleToSendEmailToAFriend" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -388,19 +438,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="TestNG.TestSuite.verifyUserShouldBeAbleToSendEmailToAFriend" />
       <item itemvalue="TestNG.TestSuite" />
-      <item itemvalue="TestNG.TestSuite.verifyCompareProducts" />
-      <item itemvalue="TestNG.TestSuite.verifyIfUserShouldBeAbleToClearTheProductList" />
+      <item itemvalue="TestNG.TestSuite.verifyUserCanSortAndDisplayProducts" />
       <item itemvalue="TestNG.TestSuite.verifyUserCanAddAProductToShoppingCart" />
-      <item itemvalue="TestNG.TestSuite.verifyUserCanShortAndDisplayProducts" />
+      <item itemvalue="TestNG.TestSuite.verifyUserCanBuyTwoProducts" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuite" />
-        <item itemvalue="TestNG.TestSuite.verifyUserCanShortAndDisplayProducts" />
+        <item itemvalue="TestNG.TestSuite.verifyUserCanBuyTwoProducts" />
         <item itemvalue="TestNG.TestSuite.verifyUserCanAddAProductToShoppingCart" />
-        <item itemvalue="TestNG.TestSuite.verifyCompareProducts" />
-        <item itemvalue="TestNG.TestSuite.verifyIfUserShouldBeAbleToClearTheProductList" />
+        <item itemvalue="TestNG.TestSuite.verifyUserCanSortAndDisplayProducts" />
+        <item itemvalue="TestNG.TestSuite" />
+        <item itemvalue="TestNG.TestSuite.verifyUserShouldBeAbleToSendEmailToAFriend" />
       </list>
     </recent_temporary>
   </component>
@@ -418,66 +468,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 33m 02s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
+    <history-entry file="TestSuite_verifyIfUserShouldBeAbleToClearTheProductList - 2018.07.11 at 22h 36m 25s.xml">
+      <configuration name="TestSuite.verifyIfUserShouldBeAbleToClearTheProductList" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 34m 09s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 37m 02s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 37m 34s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 40m 40s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.05 at 23h 42m 37s.xml">
-      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_verifyUserCanShortAndDisplayProducts - 2018.07.06 at 00h 09m 37s.xml">
+    <history-entry file="TestSuite_verifyUserCanShortAndDisplayProducts - 2018.07.11 at 22h 36m 48s.xml">
       <configuration name="TestSuite.verifyUserCanShortAndDisplayProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSuite_verifyUserCanShortAndDisplayProducts - 2018.07.06 at 00h 31m 19s.xml">
-      <configuration name="TestSuite.verifyUserCanShortAndDisplayProducts" configurationId="TestNG" />
+    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.11 at 22h 37m 27s.xml">
+      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSuite_verifyUserCanShortAndDisplayProducts - 2018.07.06 at 00h 32m 16s.xml">
-      <configuration name="TestSuite.verifyUserCanShortAndDisplayProducts" configurationId="TestNG" />
+    <history-entry file="TestSuite_verifyUserCanBuyTwoProducts - 2018.07.11 at 22h 38m 01s.xml">
+      <configuration name="TestSuite.verifyUserCanBuyTwoProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSuite - 2018.07.06 at 00h 34m 56s.xml">
+    <history-entry file="TestSuite_verifyUserCanChangeCurrency - 2018.07.11 at 22h 38m 23s.xml">
+      <configuration name="TestSuite.verifyUserCanChangeCurrency" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_verifyUserShouldBeAbleToSendEmailToAFriend - 2018.07.11 at 22h 39m 03s.xml">
+      <configuration name="TestSuite.verifyUserShouldBeAbleToSendEmailToAFriend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite - 2018.07.11 at 22h 40m 55s.xml">
       <configuration name="TestSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_verifyUserCanSortAndDisplayProducts - 2018.07.11 at 22h 44m 05s.xml">
+      <configuration name="TestSuite.verifyUserCanSortAndDisplayProducts" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_verifyUserCanAddAProductToShoppingCart - 2018.07.11 at 22h 54m 24s.xml">
+      <configuration name="TestSuite.verifyUserCanAddAProductToShoppingCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_verifyUserCanBuyTwoProducts - 2018.07.11 at 22h 56m 49s.xml">
+      <configuration name="TestSuite.verifyUserCanBuyTwoProducts" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4919473" weight="0.32861635" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.32650074" side_tool="true" visible="true" weight="0.26415095" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.33894584" side_tool="true" visible="true" weight="0.38679245" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6734993" weight="0.26415095" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6610542" visible="true" weight="0.38679245" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22108346" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26207906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.39937106" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49633968" weight="0.39937106" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49707174" weight="0.32861635" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -490,26 +541,141 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+        <state relative-caret-position="85">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeworkMaven2018_07_03AI.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/LoadProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="1" selection-start-line="26" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Properties/TestDataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BrowserSetUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="103" selection-start-line="88" selection-start-column="103" selection-end-line="88" selection-end-column="103" />
+        <state relative-caret-position="1734">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/LoadProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Properties/TestDataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BrowserSetUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="115" selection-start-line="9" selection-start-column="115" selection-end-line="9" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -520,11 +686,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="103" selection-start-line="88" selection-start-column="103" selection-end-line="88" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -541,8 +740,6 @@
           <caret line="32" column="72" lean-forward="true" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -551,11 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,9 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="88" column="103" lean-forward="true" selection-start-line="88" selection-start-column="103" selection-end-line="88" selection-end-column="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,8 +771,6 @@
           <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -592,11 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,9 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,8 +802,6 @@
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -633,30 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeworkMaven2018_07_03AI.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -667,44 +820,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/RegisterPage.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Properties/TestDataConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="626" selection-start-line="626" selection-end-line="626" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeworkMaven2018_07_03AI.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Resources/BrowserDriver/chromedriver.exe">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/BrowserDriver/geckodriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="454" selection-start-line="454" selection-end-line="454" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/LoadProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/BrowserSetUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeworkMaven2018_07_03GI/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="-187">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HomeworkMaven2018_07_03GI/TestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        <state relative-caret-position="2397">
+          <caret line="141" column="93" lean-forward="true" selection-start-line="141" selection-start-column="93" selection-end-line="141" selection-end-column="93" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

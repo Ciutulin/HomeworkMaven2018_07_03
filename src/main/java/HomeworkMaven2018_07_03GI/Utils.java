@@ -16,9 +16,10 @@ public class Utils extends BasePage {
     }
     //enter text
     public static void enterText(By by, String text){
+
         driver.findElement(by).sendKeys(text);
     }
-
+    //get text from element(o folosesti la sfarsit cand verifici daca ti-a aparut textul pe care il vrei for assert)
     public static String getTextFromElement(By by){
         return driver.findElement(by).getText() ;
 
@@ -33,11 +34,11 @@ public class Utils extends BasePage {
         return email;
     }
 
-    public static void selectFromDropDown(String dropDown, String choosedValue)//dropDown- date of birth (day, month,year)
+    public static void selectFromDropDown(By by, String choosedValue)//dropDown- date of birth (day, month,year)
                                                                                //choosedValue -what value do you select
     {
 
-        Select droplist = new Select(driver.findElement(By.name(dropDown)));//create an object for dropdown
+        Select droplist = new Select(driver.findElement(by));//create an object for dropdown
         droplist.selectByVisibleText(choosedValue);//select from dropdown
     }
 
@@ -51,7 +52,7 @@ public class Utils extends BasePage {
     }
     //clear and enter text
     public static void clearAndEnterText(By by, String text){
-        driver.findElement(by).clear();
+        driver.findElement(by).clear();//il face sa se uite la un element(buton)
         driver.findElement(by).sendKeys(text);
     }
     //select from visible number
